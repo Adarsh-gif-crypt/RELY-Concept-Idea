@@ -88,7 +88,7 @@ if com:
     emailcom = 'companyemail@companyext.com'
 
 
-sender_email = 'as8969@srmist.edu.in'
+sender_email = ''
 
 
 
